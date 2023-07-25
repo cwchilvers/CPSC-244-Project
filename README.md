@@ -40,10 +40,9 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
 - The player masters moving the ball and collecting gems within a time limit.
 
 ## Installation
-1. Go to the `Builds` folder
-2. Download the `Boll-a-Rall.zip` file
-3. Extract the contents of the zip file
-4. Run the `Boll-a-Rall.exe` file
+1. Go to [Releases](https://github.com/cwchilvers/Boll-a-Rall/releases) and download the `Boll-a-Rall.zip` file.
+2. Extract the contents of the zip file.
+3. Run the `Boll-a-Rall.exe` file.
 
 ## Usage
 - Use the arrow keys or WASD to move the ball.

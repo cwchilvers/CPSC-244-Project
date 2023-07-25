@@ -10,19 +10,21 @@
 <h4 align="center">A simple 3D ball-rolling game.</h4>
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Credits](#credits)
-- [Contact Information](#contact-information)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Screenshots](#screenshots)
+5. [Credits](#credits)
+6. [License](#license)
+7. [Contact Information](#contact-information)
 
 ## Description
-This was a project for my Level Design I class (CPSC-244) at Chapman University. The goal was to create a simple 3D game based on the example Roll-a-Ball game from Unity's tutorials. We were to add three new features of our choosing to the game. I chose to add slopes, falling of platforms, and music. The music, UI, and models were created by myself.
+This project was developed for my Level Design I class (CPSC-244) at Chapman University. The goal was to create a simple 3D game based on the example Roll-a-Ball game from Unity's tutorials. Three new features were added to the game: slopes, falling platforms, and music. The music, UI, and models were created by myself.
 
 <h3 align="center">
 Level Design Approach:
 </h3>
+
 All three levels were designed using the concept of IPM (Introduce, Practice, Master), which is a method of teaching that introduces a concept, allows the player to practice the concept, and then allows the player to master the concept. The levels were designed to be simple and easy to complete, but still challenging enough to be fun.
 
 #### Level 1:
@@ -38,15 +40,16 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
 - The player masters moving the ball and collecting gems within a time limit.
 
 ## Installation
-1. Go to the [Releases] page and download the latest release.
-2. Extract the contents of the zip file.
-3. Run `Boll-a-Rall.exe` to start the game.
+1. Go to the `Builds` folder
+2. Download the `Boll-a-Rall.zip` file
+3. Extract the contents of the zip file
+4. Run the `Boll-a-Rall.exe` file
 
 ## Usage
-1. Use the arrow keys or WASD to move the ball.
-2. Collect all the gems before the timer runs out.
-3. Avoid falling off the platforms.
-4. Complete all three levels to win the game.
+- Use the arrow keys or WASD to move the ball.
+- Collect all the gems before the timer runs out.
+- Avoid falling off the platforms.
+- Complete all three levels to win the game.
 
 ## Screenshots
 ![Boll-a-Rall](https://github.com/cwchilvers/Basic-Tech-Blog/assets/59628271/6141efc4-64a3-4c8b-9b31-111cadc3fcd5)

@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
-  <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-CC0 1.0-lightgrey.svg?style=for-the-badge">
 </p>
 
 <h4 align="center">A simple 3D ball-rolling game.</h4>
@@ -66,7 +66,7 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
 - [Punk Kid](https://www.dafont.com/punk-kid.font)
 
 ## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This project is licensed under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contact Information
 <p align="center">

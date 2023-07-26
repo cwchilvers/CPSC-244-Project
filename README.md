@@ -51,7 +51,9 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
 - Complete all three levels to win the game.
 
 ## Screenshots
-![Boll-a-Rall](https://github.com/cwchilvers/Basic-Tech-Blog/assets/59628271/6141efc4-64a3-4c8b-9b31-111cadc3fcd5)
+<p align="center">
+  <img src="https://github.com/cwchilvers/Basic-Tech-Blog/assets/59628271/6141efc4-64a3-4c8b-9b31-111cadc3fcd5">
+</p>
 
 ## Credits
 - [Unity](https://unity.com/)

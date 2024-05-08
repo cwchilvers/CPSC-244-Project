@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge" alt="C#"> 
   <img src="https://img.shields.io/badge/License-CC0 1.0-lightgrey.svg?style=for-the-badge" alt="CC0 1.0 License">
 </p>
 
@@ -14,9 +15,10 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Screenshots](#screenshots)
-5. [Credits](#credits)
-6. [License](#license)
+5. [Technologies Used](#technologies-used)
+6. [Credits](#credits)
 7. [Contact Information](#contact-information)
+8. [License](#license)
 
 ## Description
 This project was developed for my Level Design I class (CPSC-244) at Chapman University. The goal was to create a simple 3D game based on the example Roll-a-Ball game from Unity's tutorials. Three new features were added to the game: slopes, falling platforms, and music. The music, UI, and models were created by myself.
@@ -55,23 +57,28 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
   <img src="https://github.com/cwchilvers/Basic-Tech-Blog/assets/59628271/6141efc4-64a3-4c8b-9b31-111cadc3fcd5">
 </p>
 
+## Technologies Used
+* [Unity](https://unity.com/)
+* C#
+  
 ## Credits
-- [Unity](https://unity.com/)
-- [Unity Roll-a-Ball Tutorial](https://learn.unity.com/project/roll-a-ball-tutorial)
-- [Quick Outline](https://assetstore.unity.com/packages/tools/utilities/quick-outline-115488)
-- [Blender](https://www.blender.org/)
+* [Unity Roll-a-Ball Tutorial](https://learn.unity.com/project/roll-a-ball-tutorial)
 
 #### Fonts
-- [Adler](https://www.dafont.com/adler.font)
-- [Liberation Sans](https://www.dafont.com/liberation-sans.font)
-- [Living Hell](https://www.dafont.com/living-hell.font)
-- [Punk Kid](https://www.dafont.com/punk-kid.font)
+* [Adler](https://www.dafont.com/adler.font)
+* [Liberation Sans](https://www.dafont.com/liberation-sans.font)
+* [Living Hell](https://www.dafont.com/living-hell.font)
+* [Punk Kid](https://www.dafont.com/punk-kid.font)
 
-## License
-This project is licensed under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+#### Misc.
+* [Quick Outline](https://assetstore.unity.com/packages/tools/utilities/quick-outline-115488)
+* [Blender](https://www.blender.org/)
 
 ## Contact Information
 <p align="center">
     <a href="mailto:cwchilvers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://github.com/cwchilvers"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
 </p>
+
+## License
+This project is licensed under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).

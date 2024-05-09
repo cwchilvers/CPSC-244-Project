@@ -12,10 +12,10 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Screenshots](#screenshots)
-5. [Technologies Used](#technologies-used)
+2. [Screenshots](#screenshots)
+3. [Technologies Used](#technologies-used)
+4. [Usage](#usage)
+5. [Installation](#installation)
 6. [Credits](#credits)
 7. [Contact Information](#contact-information)
 8. [License](#license)
@@ -41,17 +41,6 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
 - Practices moving the ball on slopes.
 - The player masters moving the ball and collecting gems within a time limit.
 
-## Installation
-1. Go to [Releases](https://github.com/cwchilvers/Boll-a-Rall/releases) and download the `Boll-a-Rall.zip` file.
-2. Extract the contents of the zip file.
-3. Run the `Boll-a-Rall.exe` file.
-
-## Usage
-- Use the arrow keys or WASD to move the ball.
-- Collect all the gems before the timer runs out.
-- Avoid falling off the platforms.
-- Complete all three levels to win the game.
-
 ## Screenshots
 <p align="center">
   <img src="https://github.com/cwchilvers/Basic-Tech-Blog/assets/59628271/6141efc4-64a3-4c8b-9b31-111cadc3fcd5">
@@ -60,6 +49,21 @@ All three levels were designed using the concept of IPM (Introduce, Practice, Ma
 ## Technologies Used
 * [Unity](https://unity.com/)
 * C#
+
+## Usage
+Try out the live web browser version [here](https://cpsc-244.cwchilvers.io).
+
+* Use the arrow keys or WASD to move the ball.
+* Collect all the gems before the timer runs out.
+* Avoid falling off the platforms.
+* Complete all three levels to win the game.
+  
+## Installation
+**Note: Windows only.**
+
+1. Go to [Releases](https://github.com/cwchilvers/Boll-a-Rall/releases) and download the `Boll-a-Rall.zip` file.
+2. Extract the contents of the zip file.
+3. Run the `Boll-a-Rall.exe` file.
   
 ## Credits
 * [Unity Roll-a-Ball Tutorial](https://learn.unity.com/project/roll-a-ball-tutorial)
